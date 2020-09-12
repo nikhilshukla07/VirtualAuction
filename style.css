@@ -1,0 +1,25 @@
+body{
+  overflow-y: hidden;
+}
+.root{
+    height: 650px;
+}
+.mainDiv{
+    height: 100%;
+}
+.biddingArea   {
+    background: tomato;
+    height: 100%;
+}
+
+.playerArea{
+    background: lightgreen;
+}
+
+.timer{
+    background: lawngreen;
+}
+.leaderboard{
+    height: 50%;
+    background: lightskyblue;
+}
